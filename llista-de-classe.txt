@@ -1,4 +1,4 @@
-BARCELó VICENS, JAUME -- Posar un missatge després del nom!
+﻿BARCELó VICENS, JAUME -- Posar un missatge després del nom!
 
 DAM
 
@@ -38,7 +38,7 @@ GROSSI BERMEJO, MARC -- ¡VENDO OPEL CORSA BARATO!
 MAGRANER VADELL, AMADOR -- ¡Visit www.amadormagraner.com!
 MOREY MOLINA, BARTOMEU
 ORFILA LUCENA, JOAN ANTONI
-RAMON LÓPEZ, PEDRO GABRIEL
+RAMON LÓPEZ, PEDRO GABRIEL -- Hello!
 REYNÉS RAMIS, FELIP XAVIER -- Hola! Modificat | Canvis Realitzats 
 RIERA RENDÓN, JOSÉ ALBERTO
 RIGO CANTERO, LUIS ALFREDO
